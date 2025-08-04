@@ -1,5 +1,5 @@
 # Bootcamp-Python-Vivo
-<p>É o repositório com a listagem de desefios de projetos e outras atividades que eu desenvolvi no Bootcamp da DIO chamado "Python AI Backend Developer" em parceria com a VIVO:</p>
+<p>É o repositório com a listagem de desafios de projetos e outras atividades que eu desenvolvi no Bootcamp da DIO chamado "Python AI Backend Developer" em parceria com a VIVO:</p>
 
 ## Projetos/Atividades feitas:
 
